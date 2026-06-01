@@ -1,0 +1,15 @@
+<Resource>
+    <pages>
+        <page name="ch0" id="0" />
+        <page name="ch1" id="1" />
+        <page name="ch2" id="2" />
+        <page name="ch3" id="3" />
+        <page name="home_page" id="4" />
+    </pages>
+    <images>
+        <image id="0" url="e:\codes\qianrushi\dacai\demo2\images\magnetic_stir_start.png" effect_width="135" effect_height="56" />
+        <image id="1" url="e:\codes\qianrushi\dacai\demo2\images\magnetic_stir_running.png" effect_width="135" effect_height="56" />
+        <image id="2" url="e:\codes\qianrushi\dacai\demo2\images\magnetic_stir_stop.png" effect_width="144" effect_height="54" />
+    </images>
+    <waves />
+</Resource>
